@@ -1,0 +1,15 @@
+/workspaces/task-5/myproject/bin/Debug/net10.0/myproject
+/workspaces/task-5/myproject/bin/Debug/net10.0/myproject.deps.json
+/workspaces/task-5/myproject/bin/Debug/net10.0/myproject.runtimeconfig.json
+/workspaces/task-5/myproject/bin/Debug/net10.0/myproject.dll
+/workspaces/task-5/myproject/bin/Debug/net10.0/myproject.pdb
+/workspaces/task-5/myproject/obj/Debug/net10.0/myproject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/task-5/myproject/obj/Debug/net10.0/myproject.AssemblyInfoInputs.cache
+/workspaces/task-5/myproject/obj/Debug/net10.0/myproject.AssemblyInfo.cs
+/workspaces/task-5/myproject/obj/Debug/net10.0/myproject.csproj.CoreCompileInputs.cache
+/workspaces/task-5/myproject/obj/Debug/net10.0/myproject.sourcelink.json
+/workspaces/task-5/myproject/obj/Debug/net10.0/myproject.dll
+/workspaces/task-5/myproject/obj/Debug/net10.0/refint/myproject.dll
+/workspaces/task-5/myproject/obj/Debug/net10.0/myproject.pdb
+/workspaces/task-5/myproject/obj/Debug/net10.0/myproject.genruntimeconfig.cache
+/workspaces/task-5/myproject/obj/Debug/net10.0/ref/myproject.dll
